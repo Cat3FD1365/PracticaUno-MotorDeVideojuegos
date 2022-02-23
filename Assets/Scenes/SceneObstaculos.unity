@@ -8,8 +8,8 @@ OcclusionCullingSettings:
     smallestOccluder: 5
     smallestHole: 0.25
     backfaceThreshold: 100
-  m_SceneGUID: 00000000000000000000000000000000
-  m_OcclusionCullingData: {fileID: 0}
+  m_SceneGUID: 897a48ade85369d44989ac9d6e980332
+  m_OcclusionCullingData: {fileID: 36300000, guid: fd007af16d53f8343984717f7b84d6e8, type: 2}
 --- !u!104 &2
 RenderSettings:
   m_ObjectHideFlags: 0
@@ -271,6 +271,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Moneda (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
 --- !u!1 &30446583
@@ -517,6 +521,10 @@ PrefabInstance:
     - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
       propertyPath: m_Name
       value: Moneda (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
@@ -765,6 +773,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Moneda (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
 --- !u!1 &174995240
@@ -916,6 +928,10 @@ PrefabInstance:
     - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
       propertyPath: m_Name
       value: Moneda (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
@@ -1069,6 +1085,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Moneda (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
 --- !u!1001 &229315294
@@ -1125,6 +1145,10 @@ PrefabInstance:
     - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
       propertyPath: m_Name
       value: Moneda (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
@@ -1329,6 +1353,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Moneda (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
 --- !u!1001 &303016692
@@ -1385,6 +1413,10 @@ PrefabInstance:
     - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
       propertyPath: m_Name
       value: Moneda (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
@@ -1822,6 +1854,10 @@ PrefabInstance:
     - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
       propertyPath: m_Name
       value: Moneda (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
@@ -2654,6 +2690,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Moneda (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
 --- !u!1001 &557344196
@@ -2711,6 +2751,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Moneda (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
 --- !u!1001 &606775510
@@ -2767,6 +2811,10 @@ PrefabInstance:
     - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
       propertyPath: m_Name
       value: Moneda (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
@@ -2920,6 +2968,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Moneda (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
 --- !u!1001 &779584870
@@ -2976,6 +3028,10 @@ PrefabInstance:
     - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
       propertyPath: m_Name
       value: Moneda (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
@@ -3223,6 +3279,10 @@ PrefabInstance:
     - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
       propertyPath: m_Name
       value: Moneda (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
@@ -4030,6 +4090,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Moneda (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
 --- !u!1 &1001694042
@@ -4517,6 +4581,10 @@ PrefabInstance:
     - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
       propertyPath: m_Name
       value: Moneda (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
@@ -5335,6 +5403,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Moneda (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
 --- !u!1 &1255694202
@@ -5514,6 +5586,10 @@ PrefabInstance:
     - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
       propertyPath: m_Name
       value: Moneda (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
@@ -5761,6 +5837,10 @@ PrefabInstance:
     - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
       propertyPath: m_Name
       value: Moneda (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
@@ -6117,6 +6197,10 @@ PrefabInstance:
     - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
       propertyPath: m_Name
       value: Moneda (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
@@ -6650,6 +6734,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Moneda (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
 --- !u!1 &1561733076
@@ -6801,6 +6889,10 @@ PrefabInstance:
     - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
       propertyPath: m_Name
       value: Moneda (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
@@ -7619,6 +7711,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Moneda (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
 --- !u!1 &1827718061
@@ -7963,6 +8059,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Moneda (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
 --- !u!1 &1935130825
@@ -8114,6 +8214,10 @@ PrefabInstance:
     - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
       propertyPath: m_Name
       value: Moneda (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
@@ -8311,6 +8415,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Moneda (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
 --- !u!1001 &2062386780
@@ -8368,6 +8476,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Moneda (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
 --- !u!1001 &2076299690
@@ -8424,6 +8536,10 @@ PrefabInstance:
     - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
       propertyPath: m_Name
       value: Moneda (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
@@ -12024,6 +12140,10 @@ PrefabInstance:
     - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
       propertyPath: m_Name
       value: Moneda
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503890130457354650, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 18
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7926dbd1ca9fbf142b37cf9735686ca0, type: 3}
